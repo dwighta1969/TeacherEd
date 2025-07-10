@@ -13,3 +13,17 @@
 To run this website locally:
 
 1. Clone the repo:
+
+## 🚀 Live Website
+
+Once deployed, the live site will be available at:  
+➡️ https://dwighta1969.github.io/TeacherEd/
+
+## 🤝 Contributing
+
+Pull requests and suggestions are welcome.  
+Whether you're an ITT tutor, student teacher, or digital innovator — feel free to contribute ideas or resources.
+
+## 📄 License
+
+This project is open source under the [MIT License](https://choosealicense.com/licenses/mit/).
